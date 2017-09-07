@@ -8,7 +8,7 @@
 - [Laravel Code Snippets](#laravel-code-snippets)
 - [SOLID Prinzip](#solid-prinzip)
 - [Clean Code](#clean-code)
-- [API Hilfe](#api-hilfe)
+- [API Hilfen](#api-hilfen)
 - [Lose Linksammlung](#lose-linksammlung) wird später zugordnet
 
 ## Laravel Essentials
