@@ -56,7 +56,7 @@
 * [APIs You Won't Hate](https://apisyouwonthate.com/)
 * [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist)
 
-## Laravel 5.5
+## Laravel 5-5
 
 * [Laravel 5.5 — Optional class, withDefault() and $attribute defaults](https://medium.com/@codebyjeff/laravel-5-5-optional-class-withdefault-and-attribute-defaults-a2e901dbad62)
 * [New Laravel 5.5 Features: Recap from Laracon US 2017](https://mattstauffer.co/blog/new-laravel-5-5-features-recap-from-laracon-us-2017/)
