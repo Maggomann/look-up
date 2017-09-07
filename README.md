@@ -9,6 +9,7 @@
 - [SOLID Prinzip](#solid-prinzip)
 - [Clean Code](#clean-code)
 - [API Hilfen](#api-hilfen)
+- [Laravel 5.5](#laravel-5.5)
 - [Lose Linksammlung](#lose-linksammlung) wird später zugordnet
 
 ## Laravel Essentials
@@ -18,6 +19,7 @@
 * [Laravel API Reference](https://laravel.com/api/master/)
 * [Laracasts](https://laracasts.com)
 * [Laravel News](https://laravel-news.com)
+* [Laravel Certification](https://laravel-news.com/laravel-certification)
 
 ## Laravel Code Snippets
 
@@ -40,6 +42,7 @@
 * [Clean Code Vortrag pdf](http://rg-dortmund.gi.de/fileadmin/gliederungen/rg-dortmund/archiv_neu/2011/Clean-Code-Vortrag.pdf)
 * [Clean Code die Grade](http://clean-code-developer.de/die-grade/)
 * [Clean Code JS](https://github.com/ryanmcdermott/clean-code-javascript)
+* [Writing Clean Code](https://jason.pureconcepts.net/2017/08/writing-clean-code/)
 
 ## API Hilfen
 
@@ -51,7 +54,13 @@
 * [Stripe API](https://stripe.com/docs/api#intro)
 * [goshippo API](https://goshippo.com/docs/reference)
 * [APIs You Won't Hate](https://apisyouwonthate.com/)
-* [gAPI-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist)
+* [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist)
+
+## Laravel 5.5
+
+* [Laravel 5.5 — Optional class, withDefault() and $attribute defaults](https://medium.com/@codebyjeff/laravel-5-5-optional-class-withdefault-and-attribute-defaults-a2e901dbad62)
+* [New Laravel 5.5 Features: Recap from Laracon US 2017](https://mattstauffer.co/blog/new-laravel-5-5-features-recap-from-laracon-us-2017/)
+* [Laravel 5.5 upgrade](https://laravel.com/docs/5.5/upgrade)
 
 ## Lose Linksammlung
 
@@ -59,6 +68,20 @@
 * [phptherightway](http://www.phptherightway.com/)
 * [Laravel Quickstart](https://laravel.com/docs/5.1/quickstart-intermediate)
 * [OWASP Top Ten Project]( https://www.owasp.org/index.php/Top_10)
+* [cssnext](http://cssnext.io/)
+* [PostCSS](http://postcss.org/)
+* [Whatcha Working On: Refactoring in the Real World: Part 2](https://laracasts.com/series/whatcha-working-on/episodes/20)
+* [guidelines spatie](https://guidelines.spatie.be/)
+* [laravel totem](https://github.com/codestudeo/laravel-totem)
+* [theme-based-views-in-laravel-using-vendor-namespaces](https://sebastiandedeyne.com/posts/2017/theme-based-views-in-laravel-using-vendor-namespaces)
+* [certificatechain.io](https://certificatechain.io/)
+* [ssl-certificate-chain-resolver](https://github.com/spatie/ssl-certificate-chain-resolver)
+
+
+
+
+
+
 
 
 
