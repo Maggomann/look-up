@@ -9,7 +9,7 @@
 - [SOLID Prinzip](#solid-prinzip)
 - [Clean Code](#clean-code)
 - [API Hilfen](#api-hilfen)
-- [Laravel 5.5](#laravel-5.5)
+- [Laravel 5.5](#laravel-5-5)
 - [Lose Linksammlung](#lose-linksammlung) wird später zugordnet
 
 ## Laravel Essentials
