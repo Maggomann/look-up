@@ -6,8 +6,9 @@
 
 - [Laravel Essentials](#laravel-essentials)
 - [Laravel Code Snippets](#laravel-code-snippets)
-- [Clean Code](#clean-code)
 - [SOLID Prinzip](#solid-prinzip)
+- [Clean Code](#clean-code)
+- [API Hilfe](#api-hilfe)
 - [Lose Linksammlung](#lose-linksammlung) wird später zugordnet
 
 ## Laravel Essentials
@@ -39,6 +40,18 @@
 * [Clean Code Vortrag pdf](http://rg-dortmund.gi.de/fileadmin/gliederungen/rg-dortmund/archiv_neu/2011/Clean-Code-Vortrag.pdf)
 * [Clean Code die Grade](http://clean-code-developer.de/die-grade/)
 * [Clean Code JS](https://github.com/ryanmcdermott/clean-code-javascript)
+
+## API Hilfen
+
+* [Forge](https://forge.laravel.com/api-documentation)
+* [Support ETags for Caching](https://geemus.gitbooks.io/http-api-design/content/en/foundations/support-etags-for-caching.html)
+* [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+* [DigitalOcean API](https://developers.digitalocean.com/documentation/v2/)
+* [Publish Your Project Documentation with GitHub Pages](https://github.com/blog/2233-publish-your-project-documentation-with-github-pages)
+* [Stripe API](https://stripe.com/docs/api#intro)
+* [goshippo API](https://goshippo.com/docs/reference)
+* [APIs You Won't Hate](https://apisyouwonthate.com/)
+* [gAPI-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist)
 
 ## Lose Linksammlung
 
