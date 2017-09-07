@@ -6,6 +6,7 @@
 
 - [Laravel Essentials](#laravel-essentials)
 - [Laravel Code Snippets](#laravel-code-snippets)
+- [Clean Code](#clean-code)
 - [SOLID Prinzip](#solid-prinzip)
 - [Lose Linksammlung](#lose-linksammlung) wird später zugordnet
 
@@ -31,15 +32,18 @@
 * [SOLID PHP Example](https://github.com/wataridori/solid-php-example)
 * [SOLID principles PHP](https://github.com/CbCaio/learning/tree/master/SOLID-principles-php)
 
-## Lose Linksammlung
+## Clean Code
 
 * [Clean Code PHP](https://github.com/jupeter/clean-code-php)
-* [Collect JS](https://github.com/ecrmnn/collect.js)
 * [Clean Code Poster pdf](https://unclassified.software/files/topics/clean-code/CCD-Poster_A0.pdf)
 * [Clean Code Vortrag pdf](http://rg-dortmund.gi.de/fileadmin/gliederungen/rg-dortmund/archiv_neu/2011/Clean-Code-Vortrag.pdf)
-* [phptherightway](http://www.phptherightway.com/)
 * [Clean Code die Grade](http://clean-code-developer.de/die-grade/)
 * [Clean Code JS](https://github.com/ryanmcdermott/clean-code-javascript)
+
+## Lose Linksammlung
+
+* [Collect JS](https://github.com/ecrmnn/collect.js)
+* [phptherightway](http://www.phptherightway.com/)
 * [Laravel Quickstart](https://laravel.com/docs/5.1/quickstart-intermediate)
 * [OWASP Top Ten Project]( https://www.owasp.org/index.php/Top_10)
 
