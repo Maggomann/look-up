@@ -1,4 +1,5 @@
-# Mac als developer Masschine laufen lassen. Hauptaugemnmerk liegt dabei auf das Arbeiten mit dem laravel-Framework
+# Mac als Developer-Maschine nutzen.
+> Hauptaugenmmerk liegt hier auf das Arbeiten mit dem Laravel Framework!!!!
 
 ## Inhaltsverzeichniss
 
